@@ -1,9 +1,12 @@
-Hi 👋, I’m @acanha
+# 🛠️ Backend Engineer | Tech Enthusiast 🚀
 
-I’m interested in back end development.
+## Hello, World! 👋
+I'm **André Canha**, a backend engineer passionate about crafting scalable, efficient, and secure software solutions.
 
-<!---
-acanha/acanha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📬 Connect with Me 🌎
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andre-canha-66196823/)  
+- 🐦 [Twitter](https://twitter.com/canhandre)  
+
 
